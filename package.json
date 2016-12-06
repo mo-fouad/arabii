@@ -1,0 +1,39 @@
+{
+  "name": "arabii",
+  "version": "1.0.3",
+  "description": "Frame work for Arabic web sites and arabic fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arabii",
+    "arabic",
+    "rtl"
+  ],
+  "author": "Mohammad Fouad",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofouad2011/arabii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mofouad2011/arabii/issues"
+  },
+  "homepage": "https://github.com/mofouad2011/arabii#readme",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}
